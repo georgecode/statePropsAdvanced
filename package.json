@@ -1,7 +1,7 @@
 {
-  "name": "react_skeleton",
+  "name": "propsStateAdvanced",
   "version": "1.0.0",
-  "description": "react skeleton",
+  "description": "react props state advanced",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/georgecode/reactSkeleton.git"
+    "url": "git+https://github.com/georgecode/statePropsAdvanced.git"
   },
   "author": "george czurlanis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/georgecode/reactSkeleton/issues"
+    "url": "https://github.com/georgecode/statePropsAdvanced/issues"
   },
-  "homepage": "https://github.com/georgecode/reactSkeleton#readme",
+  "homepage": "https://github.com/georgecode/statePropsAdvanced#readme",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
