@@ -18,7 +18,6 @@ module.exports = class extends React.Component{
 		return(
 			<div>
 				<Test />
-				<h1>YO YO YO whats up</h1>
 			</div>
 			)
 	}
